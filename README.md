@@ -1,5 +1,7 @@
-Recent [blog](http://www.xkyle.com) posts:
+Recent blog posts:
 
+* [Hello World](http://kyle.cascade.familyhttps://kyle.cascade.family/posts/hello-world/)
+* [Subscribe](http://kyle.cascade.familyhttps://kyle.cascade.family/subscribe/)
 * [New Name, New Blog](http://www.xkyle.com/New-Name-New-Blog/)
 * [Why I'm Not an SRE](http://www.xkyle.com/Why-Im-Not-an-SRE/)
 * [The Incidental Complexity of Kubernetes](http://www.xkyle.com/The-Incidental-Complexity-of-Kubernetes/)
