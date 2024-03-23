@@ -3,21 +3,21 @@ import xml
 import urllib.request
 import xml.etree.ElementTree as ET
 
-BLOG_URL = "http://www.xkyle.com"
-RSS_URL = f"{BLOG_URL}/index.xml"
+XKYLE_BLOG_URL = "http://www.xkyle.com"
+CASCADE_BLOG_URL = "http://kyle.cascade.family"
 
 
-def get_blog_rssxml():
-    with urllib.request.urlopen(RSS_URL) as response:
+def get_blog_rssxml(rss_url):
+    with urllib.request.urlopen(rss_url) as response:
         return response.read()
 
 
-def print_blog_posts():
-    rssxml = get_blog_rssxml()
+def print_blog_posts(blog_url):
+    rss_url = f"{blog_url}/index.xml"
+    rssxml = get_blog_rssxml(rss_url)
     root = ET.fromstring(rssxml)
-    print(f"Recent [blog]({BLOG_URL}) posts:\n")
     for item in root[0].findall("item")[:5]:
-        url = f"{BLOG_URL}{item.find('link').text}"
+        url = f"{blog_url}{item.find('link').text}"
         text = item.find("title").text
         print(f"* [{text}]({url})")
 
@@ -31,5 +31,7 @@ def print_badge():
 
 
 if __name__ == "__main__":
-    print_blog_posts()
+    print(f"Recent blog posts:\n")
+    print_blog_posts(CASCADE_BLOG_URL)
+    print_blog_posts(XKYLE_BLOG_URL)
     print_badge()
