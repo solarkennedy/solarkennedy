@@ -1,5 +1,7 @@
 Recent blog posts:
 
+* [A Baby eInk Dashboard](http://kyle.cascade.familyhttps://kyle.cascade.family/posts/a-baby-eink-dashboard/)
+* [Automating a Roomba with ESPHome](http://kyle.cascade.familyhttps://kyle.cascade.family/posts/automating-a-roomba-with-esphome/)
 * [Hello World](http://kyle.cascade.familyhttps://kyle.cascade.family/posts/hello-world/)
 * [Subscribe](http://kyle.cascade.familyhttps://kyle.cascade.family/subscribe/)
 * [New Name, New Blog](http://www.xkyle.com/New-Name-New-Blog/)
