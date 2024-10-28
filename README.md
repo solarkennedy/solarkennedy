@@ -1,5 +1,6 @@
 Recent blog posts:
 
+* [Saving Laptop Battery by Suspending Workspaces in i3](http://kyle.cascade.familyhttps://kyle.cascade.family/posts/saving-laptop-battery-by-suspending-workspaces-in-i3/)
 * [A Baby eInk Dashboard](http://kyle.cascade.familyhttps://kyle.cascade.family/posts/a-baby-eink-dashboard/)
 * [Automating a Roomba with ESPHome](http://kyle.cascade.familyhttps://kyle.cascade.family/posts/automating-a-roomba-with-esphome/)
 * [Hello World](http://kyle.cascade.familyhttps://kyle.cascade.family/posts/hello-world/)
