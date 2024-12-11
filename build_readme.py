@@ -3,8 +3,8 @@ import xml
 import urllib.request
 import xml.etree.ElementTree as ET
 
-XKYLE_BLOG_URL = "http://www.xkyle.com"
-CASCADE_BLOG_URL = "http://kyle.cascade.family"
+XKYLE_BLOG_URL = "https://www.xkyle.com"
+CASCADE_BLOG_URL = "https://kyle.cascade.family"
 
 
 def get_blog_rssxml(rss_url):
