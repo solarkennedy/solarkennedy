@@ -1,5 +1,6 @@
 Recent blog posts:
 
+* [An Ode to the Palm PVG100 Phone](https://kyle.cascade.family/posts/an-ode-to-the-palm-pvg100-phone/)
 * [How to Actually Migrate Complex Systems in Infrastructure](https://kyle.cascade.family/posts/how-to-actually-migrate-complex-systems-in-infrastructure/)
 * [Saving Laptop Battery by Suspending Workspaces in i3](https://kyle.cascade.family/posts/saving-laptop-battery-by-suspending-workspaces-in-i3/)
 * [A Baby eInk Dashboard](https://kyle.cascade.family/posts/a-baby-eink-dashboard/)
