@@ -1,10 +1,10 @@
 Recent blog posts:
 
+* [The Kubernetes Pendulum?](https://kyle.cascade.family/posts/the-kubernetes-pendulum/)
 * [An Ode to the Palm PVG100 Phone](https://kyle.cascade.family/posts/an-ode-to-the-palm-pvg100-phone/)
 * [How to Actually Migrate Complex Systems in Infrastructure](https://kyle.cascade.family/posts/how-to-actually-migrate-complex-systems-in-infrastructure/)
 * [Saving Laptop Battery by Suspending Workspaces in i3](https://kyle.cascade.family/posts/saving-laptop-battery-by-suspending-workspaces-in-i3/)
 * [A Baby eInk Dashboard](https://kyle.cascade.family/posts/a-baby-eink-dashboard/)
-* [Automating a Roomba with ESPHome](https://kyle.cascade.family/posts/automating-a-roomba-with-esphome/)
 * [New Name, New Blog](https://www.xkyle.com/New-Name-New-Blog/)
 * [Why I'm Not an SRE](https://www.xkyle.com/Why-Im-Not-an-SRE/)
 * [The Incidental Complexity of Kubernetes](https://www.xkyle.com/The-Incidental-Complexity-of-Kubernetes/)
