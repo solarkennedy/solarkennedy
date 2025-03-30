@@ -1,10 +1,10 @@
 Recent blog posts:
 
+* [My Forever Desktop](https://kyle.cascade.family/posts/my-forever-desktop/)
 * [Upgrading a Palm-PVG100 to Android 11](https://kyle.cascade.family/posts/upgrading-a-palm-pvg100-to-android-11/)
 * [Archiving Youtube Channels For Future Generations](https://kyle.cascade.family/posts/archiving-youtube-channels-for-future-generations/)
 * [Moving From Microsoft Github to Codeberg.org](https://kyle.cascade.family/posts/moving-from-microsoft-github-to-codeberg.org/)
 * [The Kubernetes Pendulum?](https://kyle.cascade.family/posts/the-kubernetes-pendulum/)
-* [An Ode to the Palm PVG100 Phone](https://kyle.cascade.family/posts/an-ode-to-the-palm-pvg100-phone/)
 * [New Name, New Blog](https://www.xkyle.com/New-Name-New-Blog/)
 * [Why I'm Not an SRE](https://www.xkyle.com/Why-Im-Not-an-SRE/)
 * [The Incidental Complexity of Kubernetes](https://www.xkyle.com/The-Incidental-Complexity-of-Kubernetes/)
