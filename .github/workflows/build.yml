@@ -17,9 +17,7 @@ jobs:
       with:
         python-version: 3.8
     - name: Update README
-      run: |-
-        python build_readme.py > README.md
-        cat README.md
+      run: make README.md
     - name: Commit and push if README changed
       run: |-
         git diff
