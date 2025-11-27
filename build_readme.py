@@ -31,7 +31,7 @@ def print_badge():
 
 
 if __name__ == "__main__":
-    print(f"Recent blog posts:\n")
+    print(f"Recent [blog]({CASCADE_BLOG_URL}) posts:\n")
     print_blog_posts(CASCADE_BLOG_URL)
     print_blog_posts(XKYLE_BLOG_URL, XKYLE_BLOG_URL)
     print_badge()

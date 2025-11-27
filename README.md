@@ -1,4 +1,4 @@
-Recent blog posts:
+Recent [blog]https://kyle.cascade.family) posts:
 
 * [Why Isn't All Computing High-Performance-Computing? Part 1: High Speed Interconnect](https://kyle.cascade.family/posts/why-isnt-all-computing-high-performance-computing-part-1-high-speed-interconnect/)
 * [Recovering a Cru RTX800-TR RAID Array](https://kyle.cascade.family/posts/recovering-a-cru-rtx800-tr-raid-array/)
