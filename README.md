@@ -1,10 +1,10 @@
 Recent [blog](https://kyle.cascade.family) posts:
 
+* [Porting Android 16 to a Palm PVG100 (pepito)](https://kyle.cascade.family/posts/porting-android-16-to-a-palm-pvg100-pepito/)
 * [Monitoring Power with the AVHzY CT-3 on Linux](https://kyle.cascade.family/posts/monitoring-power-with-the-avhzy-ct-3-on-linux/)
 * [Linux Kernel Development on a PVG100 (pepito)](https://kyle.cascade.family/posts/linux-kernel-development-on-a-pvg100-pepito/)
 * [No More Mysteries?](https://kyle.cascade.family/posts/no-more-mysteries/)
 * [My Dream Office: Sun-Following Automatic Shades](https://kyle.cascade.family/posts/my-dream-office-sun-following-automatic-shades/)
-* [Hobby Cutting with Silhouette Cutters on Linux via Wine](https://kyle.cascade.family/posts/hobby-cutting-with-silhouette-cutters-on-linux-via-wine/)
 * [New Name, New Blog](https://www.xkyle.com/New-Name-New-Blog/)
 * [Why I'm Not an SRE](https://www.xkyle.com/Why-Im-Not-an-SRE/)
 * [The Incidental Complexity of Kubernetes](https://www.xkyle.com/The-Incidental-Complexity-of-Kubernetes/)
