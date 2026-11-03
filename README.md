@@ -1,10 +1,10 @@
 Recent [blog](https://kyle.cascade.family) posts:
 
+* [What Happens When AI Replaces Everyone's Thinking?](https://kyle.cascade.family/posts/what-happens-when-ai-replaces-everyones-thinking/)
 * [The Hyper-Cathedral and the Hyper-Bazaar](https://kyle.cascade.family/posts/the-hyper-cathedral-and-the-hyper-bazaar/)
 * [Porting Android 17 to the Palm PVG100](https://kyle.cascade.family/posts/porting-android-17-to-the-palm-pvg100/)
 * [AutoSolving Zoombinis - Bubblewonder Abyss](https://kyle.cascade.family/posts/autosolving-zoombinis-bubblewonder-abyss/)
 * [Porting Android 16 to a Palm PVG100 (pepito)](https://kyle.cascade.family/posts/porting-android-16-to-a-palm-pvg100-pepito/)
-* [Monitoring Power with the AVHzY CT-3 on Linux](https://kyle.cascade.family/posts/monitoring-power-with-the-avhzy-ct-3-on-linux/)
 * [New Name, New Blog](https://www.xkyle.com/New-Name-New-Blog/)
 * [Why I'm Not an SRE](https://www.xkyle.com/Why-Im-Not-an-SRE/)
 * [The Incidental Complexity of Kubernetes](https://www.xkyle.com/The-Incidental-Complexity-of-Kubernetes/)
